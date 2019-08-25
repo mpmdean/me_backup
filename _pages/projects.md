@@ -1,3 +1,5 @@
+{% comment %}
+
 ---
 layout: page
 title: projects
@@ -46,3 +48,5 @@ description: A growing collection of your cool projects.
 {% endif %}
 
 {% endfor %}
+
+{% endcomment %}
