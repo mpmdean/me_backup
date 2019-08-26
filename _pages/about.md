@@ -17,4 +17,4 @@ news: true
 social: true
 ---
 
-I am leading inelastic x-ray scattering (RIXS) program in the [Condensed Matter Physics and Materials Science Department](https://www.bnl.gov/cmpmsd/) at [Brookhaven National Laboratory](https://www.bnl.gov). The research focuses on resonant elastic and inelastic x-ray scattering studies of high temperature superconductors, strongly spin-orbit coupled materials, and complex oxide heterostructures. 
+I lead the resonant inelastic x-ray scattering (RIXS) program in the [Condensed Matter Physics and Materials Science Department](https://www.bnl.gov/cmpmsd/) at [Brookhaven National Laboratory](https://www.bnl.gov). My research focuses on quantum materials, including high temperature superconductors, strongly spin-orbit coupled materials, complex oxide heterostructures, non-equilbrium states and topology in crystalline materials.
