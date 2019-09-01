@@ -10,8 +10,8 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Design update from Qin Yao.
 
-url:  # the base hostname & protocol for your site
-baseurl: "https://markdean.info" # was /me previoulsy /al-folio # the subpath of your site, e.g. /blog/
+url: "https://markdean.info" # the base hostname & protocol for your site
+baseurl: "" # was /me previoulsy /al-folio # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
