@@ -96,6 +96,18 @@
       {% endif %}
   {% endfor %}
 
+  {% if entry.note %}
+    {{entry.note}}
+  {% endif %}
+
+  {% if entry.note1 %}
+    {{entry.note1}}
+  {% endif %}
+
+  {% if entry.note2 %}
+    {{entry.note2}}
+  {% endif %}
+
   {% if entry.poster %}
     [<a href="{{ entry.poster | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Poster</a>]
   {% endif %}
