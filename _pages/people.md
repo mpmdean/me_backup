@@ -5,25 +5,6 @@ permalink: /people/
 description: People who work with me.
 ---
 
-{% comment %}
-
-#### Hu Miao
-Hu Miao works on CDW excitations
-
-
-
-
-<p>Daniel Mazzone, Ph.D.(2017), Paul Scherrer Institut, Switzerland</p>
-<p>Yao Shen, Ph.D.(2018), Fudan University, China</p>
-<p>Jiaqi Lin, Ph.D. candidate,  Chinese Academy of Science</p>
-
-<Strong>Alumni</Strong>:
-
-<p>Derek Meyers, Assistant Professor, Oklahoma State University</p>
-<p>Gilberto Fabbris, Scientist, Argonne National Laboratory</p>
-{% endcomment %}
-
-
 {% for project in site.people %}
 
 {% if project.redirect %}
