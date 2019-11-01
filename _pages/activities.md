@@ -1,7 +1,7 @@
 ---
 layout: page
 title: activities
-permalink: /Activities/
+permalink: /activities/
 description:
 ---
 

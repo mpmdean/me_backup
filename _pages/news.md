@@ -1,7 +1,7 @@
 ---
 layout: page
 title: news
-permalink: /News/
+permalink: /news/
 description: What has been going on
 ---
 <div>
