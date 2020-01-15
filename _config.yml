@@ -66,8 +66,10 @@ collections:
   people:
     output: true
     permalink: /people/:path/
-
-news_limit: 12 
+  groupnotes:
+    output: true
+    permalink: /groupnotes/:path/
+news_limit: 12
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
