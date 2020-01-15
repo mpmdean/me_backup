@@ -15,5 +15,5 @@ The x-ray tube is cooled by two water circuits that we look after. An internal c
 ## Internal closed circuit
 This should be cleaned every three months by. Remember that you cannot reach into either the Bruker without first switching off and unplugging the system. After this follow these steps
 1. Remove the water from the internal ressovoir. This can be done either by inserting the shop vac into the water resovoir or, more elegantly, by pumping the water out. With the tube off, unplug the quick connectors at the tube head and inset the share quick connects to keep the ball valves open. Then operate the pump using the service mode of the tools page.
-1. Clean the mesh filter. Inside the resovoir to the front of the unit, gentry pull off the wire mesh filter. Make sure you only touch this. 
+1. Clean the mesh filter. Inside the resovoir to the front of the unit, gentry pull off the wire mesh filter. Make sure you only touch this.
 1. Replace the water with distilled water by pouring additional water into the resovoir. Take care to avoid splashes here and find a small beaker if needed! There should be some under the desk. Ask Mark if you need to buy more.
