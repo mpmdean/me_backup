@@ -15,7 +15,7 @@ At any one time, the group assigns one person to look after the day-to-day opera
 </div>
 
 # Good lab practice
-Ensure that the lab is kept tidy without unlabeled samples nor loose razor blades. Pay particular care to ensure that delicate optical components are not left in unsafe locations. Only non-toxic and non-radioactive samples are allowed -- please check with mark if you are unsure. Nanomaterials are also forbidden.
+Ensure that the lab is kept tidy without unlabeled samples nor loose razor blades. Pay particular care to ensure that delicate optical components are not left in unsafe locations. Only non-toxic and non-radioactive samples are allowed -- please check with mark if you are unsure. Nanomaterials are also forbidden. Researchers are obliged to leave a note specifying the sample identify and owner if they would like to leave samples unattended.
 
 # Switch off Bruker during the monthly generator test
 Approximately once a month, there is a building generator test that causes a power dip to the whole building. In order to avoid damage to machine we must ensure that the system is off during these tests. Speak to Mark or Lynn Cohen to get the schedule.
