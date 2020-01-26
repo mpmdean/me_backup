@@ -3,6 +3,7 @@ layout: page
 title: activities
 permalink: /activities/
 description:
+order: 2
 ---
 
 * [Editorial Board](https://journals.aps.org/prx/staff) of [Physical Review X](https://journals.aps.org/prx/)

@@ -3,6 +3,7 @@ layout: page
 title: news
 permalink: /news/
 description: What has been going on
+order: 3
 ---
 <div>
     <table>

@@ -3,6 +3,7 @@ layout: page
 title: people
 permalink: /people/
 description: People who work with me.
+order: 5
 ---
 
 {% for project in site.people %}
