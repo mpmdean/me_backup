@@ -69,6 +69,9 @@ collections:
   groupnotes:
     output: true
     permalink: /groupnotes/:path/
+  research:
+    output: true
+    permalink: /resesarch/:path/
 news_limit: 12
 
 # -----------------------------------------------------------------------------
@@ -95,7 +98,7 @@ scholar:
 
   last_name: Dean
 
-  style: apa
+  style: american-physics-society
   locale: en
 
   sort_by: year

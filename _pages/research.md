@@ -1,12 +1,12 @@
 ---
 layout: page
-title: people
-permalink: /people/
-description: People who work with me.
-order: 6
+title: research
+permalink: /research/
+description: What we work on
+order: 4
 ---
 
-{% for project in site.people %}
+{% for project in site.research %}
 
 {% if project.redirect %}
 <div class="project">
