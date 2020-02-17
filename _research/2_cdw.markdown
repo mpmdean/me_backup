@@ -5,12 +5,10 @@ description: Charge density waves
 img: /assets/img/cdw.png
 ---
 
-Charge density waves are periodic modulations in the electronic density of states in materials. We are studying the formation mechanism of these states by measuring CDW excitations and using coherent x-ray scattering to study domain formation and dynamics in these materials. 
+Charge density waves are periodic modulations in the electronic density of states in materials. We are studying the formation mechanisms of these states by measuring CDW excitations and using coherent x-ray scattering to study domain formation and dynamics in these materials.
 
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/PRX_CDW_excitations.png">
-</div>
-<div class="col two caption">
+<center><img src="{{ site.baseurl }}/assets/img/PRX_CDW_excitations.png" height="331" width="554"></center>
+<div class="col three caption">
     Figure 1: An illustration of measuring collective CDW excitations with RIXS taken from our recent paper H. Miao et al., PRX 9, 031042 (2019).
 </div>
 
