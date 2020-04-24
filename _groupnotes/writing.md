@@ -19,6 +19,7 @@ Do not imagine that you can just write everything perfectly and then submit it a
 1. Draft the conclusions. Shorter is usually better here.
 1. The introduction is probably the hardest part of the paper to write, which is why we suggest writing it last after you are very familiar with the material in question. A good introduction starts from a general conceptual problem and logically argues that there is an important unknown question, which is the question that the paper solves. A bad introduction often just makes a case for the research field in general. For high impact journals, you will usually want to make the introduction as short as possible as this makes the work more exciting and keep the reader focused on your data. If there is some boilerplate information you need the reader to know, it usually best locate this in the body of the paper while discussing the data.
 1. Repeat the previous steps and consider whether you can make better choices for the order of the argument, the points to emphasize and the way that the work is presented in the context of the literature.
+1. Do not go overboard trying to meet word or page limits in the first draft. If you write a slightly longer initial draft and then diligently revise the text, the final result will almost certain be better. 
 
 # Things to check for
 1.	Remember that the audience is not a mind reader. If a sentence is a little difficult for you to parse, it will likely be missed completely by the audience. For better or worse, the onus is on you to convey your ideas even if the reader is lazy! Anyone who was read more than one or two referee reports will have seen that ideas are often missed. Try to put yourself in the shoes of a potential PhD student or a rushed reviewer.
@@ -35,7 +36,8 @@ investigation,
 deliniation,
 and performance.
 Check for these and consider replacing them.
-1.	Short sentences are easier and clearer to read than long ones. Tend towards writing in short sentences and avoid sequences of many long sentences. (This is not a hard-and-fast rule.) Think of paragraph breaks in a similar way. They provide a charge to release focus on a prior idea and increase emphasis on a new idea.
+1.	Short sentences are usually easier and clearer to read than long ones. Tend towards writing in short sentences and avoid sequences of many long sentences. (This is not a hard-and-fast rule.) Think of paragraph breaks in a similar way. They provide a charge to release focus on a prior idea and increase emphasis on a new idea.
+1. Sentences with multiple clauses or other complex constructions can be grammatical, or even beautiful, but keep in mind that you are making life hard for yourself! You are probably better off with a simple sentence.
 1.	Multiple run on sentences with the same construction usually reflects bad or lazy writing. Excessive use of the same word can reflect the same problem ‘show’, for instance, can be often replaced by ‘feature’, ‘reveal’, ‘display’ etc.
 
 # Other sources
