@@ -39,6 +39,7 @@ Check for these and consider replacing them.
 1.	Short sentences are usually easier and clearer to read than long ones. Tend towards writing in short sentences and avoid sequences of many long sentences. (This is not a hard-and-fast rule.) Think of paragraph breaks in a similar way. They provide a charge to release focus on a prior idea and increase emphasis on a new idea.
 1. Sentences with multiple clauses or other complex constructions can be grammatical, or even beautiful, but keep in mind that you are making life hard for yourself! You are probably better off with a simple sentence.
 1.	Multiple run on sentences with the same construction usually reflects bad or lazy writing. Excessive use of the same word can reflect the same problem ‘show’, for instance, can be often replaced by ‘feature’, ‘reveal’, ‘display’ etc.
+1. Be cautious about stating your data 'clearly' shows something. If your data are especially clear, the feature in question will leap out at the reader  without special emphasis in the text. 'Clearly' often conveys very little and the sentence will probably be better without it.
 
 # Other sources
 Appendix A of the [Rev. Mod. Phys. Style Guide](https://cdn.journals.aps.org/files/rmpguide.pdf) is highly recommended.
