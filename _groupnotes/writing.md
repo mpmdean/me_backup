@@ -43,5 +43,5 @@ Check for these and consider replacing them.
 1. Take care not to make assumptions about the gender identity of researchers. The
 [Chicago Manual of Style](https://edwardseducationblog.files.wordpress.com/2013/08/the-chicago-manual-of-style-online-5-225_-nine-techniques-for-achieving-gender-neutrality.pdf) has a useful section about this.
 
-# Other sources
-Appendix A of the [Rev. Mod. Phys. Style Guide](https://cdn.journals.aps.org/files/rmpguide.pdf) is highly recommended.
+# Other resources
+Appendix A of the [Rev. Mod. Phys. Style Guide](https://cdn.journals.aps.org/files/rmpguide.pdf) is highly recommended. The [amsmath user guide](http://ctan.mirrors.hoobly.com/macros/latex/required/amsmath/amsldoc.pdf) is a helpful document for the use of latex and in particular handling multiline equations.
