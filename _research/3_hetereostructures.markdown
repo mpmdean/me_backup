@@ -15,6 +15,6 @@ Oxide heterostructures hold great potential for realizing new electronic states 
 
 ## Example papers
 {% capture my_variable %}
-{% cite rogge2019depth hao2019anomalous meyers2019magnetism lee2019strong hao2019novel hao2018giant fabbris2018emergent meyers2018decoupling hao2017two          fabbris2016orbital hoffman2016oscillatory %}
+{% cite Yang2020strain rogge2019depth hao2019anomalous meyers2019magnetism lee2019strong hao2019novel hao2018giant fabbris2018emergent meyers2018decoupling hao2017two          fabbris2016orbital hoffman2016oscillatory %}
 {% endcapture %}
 {% bibliography --cited_in_order %}
