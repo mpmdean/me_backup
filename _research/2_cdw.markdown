@@ -14,6 +14,6 @@ Charge density waves are periodic modulations in the electronic density of state
 
 ## Example papers
 {% capture my_variable %}
-{% cite lin2020strongly chen2019charge  miao2019formation miao2018incommensurate fabbris2017doping miao2017high chen2016remarkable %}
+{% cite shen2021charge Miao2021charge lin2020strongly chen2019charge  miao2019formation miao2018incommensurate fabbris2017doping miao2017high chen2016remarkable %}
 {% endcapture %}
 {% bibliography --cited_in_order %}

@@ -7,6 +7,7 @@ order: 2
 ---
 
 * [Editorial Board](https://journals.aps.org/prx/staff) of [Physical Review X](https://journals.aps.org/prx/)
+* [Outstanding Referee](https://journals.aps.org/OutstandingReferees) for the American Physical Society.
 * Co-chair of [RIXSREXS2021](https://www.bnl.gov/rixsrexs2021/) together with [Valentina Bisogni](https://www.bnl.gov/staff/bisogni)
 * Member of the Conference Organizing Committee for [Inelastic X-Ray Scattering 2019](https://www.bnl.gov/ixs2019) and [Resonant Elastic X-Ray Scattering 2019](https://www.bnl.gov/rexs2019/)
 * Former chair of the National Synchrotron Light Source II [Users' Executive Committee](http://nslsuec.org/) May 2017-May 2019.
