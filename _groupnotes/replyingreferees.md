@@ -25,6 +25,7 @@ Replies should aim to make it very clear and easy to see that you have comprehen
 1. Try to respond to almost every point made by a referee with a change in the manuscript. If a referee's comment is incorrect or ill-informed assume that this happened because the manuscript did not provide a sufficiently good explanation and change the manuscript as best you can. This process almost always improves the manuscript and puts the referee in a much better position in terms of potentially reversing any negative opinions they have while saving face.
 1. Pick your battles. It is usually best to comply with linguistic or stylistic changes. If you get an annoying request to cite a marginally relevant paper it is usually best to do so.
 1. It is standard practice to thank each reviewer, so follow this tradition. More importantly, it is often good to thank the reviewer in the body of the reply. This can be especially helpful if the report is overall negative or even outright nasty. Highlighting one constructive comment within a sea of negativity can help a lot in keeping the process cordial and constructive.
+1. Avoid CAPITALS and <span style="color:red">red text</span> as ways to emphasize text as this can imply anger. *Italics* usually works best and **bold** is usually okay as an alternative. 
 
 # Editor
 Although most of the technical evaluation of the manuscript will be done by the referees, the editor holds the cards for the final decisions.
