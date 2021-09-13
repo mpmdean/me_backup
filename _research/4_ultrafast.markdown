@@ -15,6 +15,6 @@ We have been pioneering the application of RIXS to transient states using x-ray 
 
 ## Example papers
 {% capture my_variable %}
-{% cite cao2019ultrafast dean2016ultrafast%}
+{% cite mazzone2021laser cao2019ultrafast dean2016ultrafast%}
 {% endcapture %}
 {% bibliography --cited_in_order %}
