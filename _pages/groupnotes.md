@@ -11,5 +11,6 @@ Here we keep notes of various tasks within the lab.
 * [Writing papers](/groupnotes/writing/)
 * [Replying to referees](/groupnotes/replyingreferees/)  
 * [Making figures](/groupnotes/figures/)  
-* [Useful software](/groupnotes/software/)  
+* [Useful software](/groupnotes/software/)
+* [Data management](/groupnotes/data_management/)
 * [Contact numbers](/groupnotes/contact/)  
