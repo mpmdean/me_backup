@@ -3,7 +3,11 @@ layout: page
 title: Figures
 ---
 
-Figures are the first thing people look at when reading papers. If the figures are poorly prepared, it can raise questions about the competency of the work overall. We suggest [matplotlib](https://matplotlib.org/) for preparing plots and keep a gallery of curated examples [here](https://github.com/mpmdean/matplotlib_examples). Here are our suggestions:
+Figures are the first thing people look at when reading papers. If the figures are poorly prepared, it can raise questions about the competency of the work overall. We suggest [matplotlib](https://matplotlib.org/) for preparing plots and keep a gallery of curated examples [here](https://github.com/mpmdean/matplotlib_examples).
+
+Yao's paper [here](/assets/pdf/shen2021charge.pdf) provides a nice example. The figures all share a clear style, with consistent sizes for all elements of the plots including fonts. Vector graphics are used throughout. Panels are accurately aligned with one-another when appropriate. The colors and symbols of the plots were chosen with care to aid the reader. For example, green/red and diamond/circle where used consistently to denote charge or spin order across different panels and figures. A different set of colors where chosen to represent temperature, which were picked to help the reader notice that the temperature dependence is non-monotonic. All axes are labeled including units. Colormaps include colorbars, micrographs include scalebars and figure include legends, all of which are located based on logic rather than simply the default of a computer program. Plots of detector images are rendered with square pixels without distortions. The major and minor ticks of plots are well chosen.
+
+## Checklist
 
 * Check the journal requirements for the figures. Make sure you follow their conventions including the labeling of subplots as either **a**, a), or (a).
 * Vector graphics formats such as pdf are faster and zoom perfectly. This is usually preferable over bitmap formats such as jpeg. pdf is usually better supported than eps unless you have a special reason to use eps. If bitmap graphics are needed, choose a generous resolution setting e.g. 600 dpi or higher.
