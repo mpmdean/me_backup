@@ -9,6 +9,9 @@ Yao's paper [here](/assets/pdf/shen2021charge.pdf) provides a nice example. The 
 
 ## Checklist
 
+* Except in very rare cases all axes and colorbars should have labels and units.
+* It is generally preferred to report results in specific units such as photons/s rather than arbitrary units. When used, the abbreviation Arb. units is usually preferred over A.u., as the former is less ambiguous
+* Colormap plots should include colorbars, micrographs include scalebars and figure should include legends if they show more than one plot item.
 * Check the journal requirements for the figures. Make sure you follow their conventions including the labeling of subplots as either **a**, a), or (a).
 * Vector graphics formats such as pdf are faster and zoom perfectly. This is usually preferable over bitmap formats such as jpeg. pdf is usually better supported than eps unless you have a special reason to use eps. If bitmap graphics are needed, choose a generous resolution setting e.g. 600 dpi or higher.
 * Set the width of a figure to the real physical column (or page) width, such as 3.375"/6.75" for a full column/full page. This will mean that fonts, point-size, line-width, etc. appear on the page in the correct size in a way that is consistent throughout the manuscript.
