@@ -4,8 +4,6 @@ title: Laue diffractometer maintenance
 ---
 
 At any one time, the group assigns one person to look after the day-to-day operation of our Laue. The Laue Cu rotating anode is cooled directly by the building proceed chilled water. We have installed a filter in the cylindrical steel house labeled Shelco. We need to check the filter of this system annually.
-* TOC
-{:toc}
 
 <div class="img_row">
     <img class="col two left" src="{{ site.baseurl }}/assets/img/Laue.jpg">
