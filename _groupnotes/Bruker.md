@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bruker diffratometer maintainance
+title: Bruker diffractometer maintenance
 ---
 
 At any one time, the group assigns one person to look after the day-to-day operation of our Bruker D8 Discover diffractometer. There are three main tasks:

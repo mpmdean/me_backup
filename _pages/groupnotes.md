@@ -8,6 +8,7 @@ order: 4
 Here we keep notes of various tasks within the lab.
 
 * [Bruker diffractometer maintenance](/groupnotes/Bruker/)  
+* [Laue diffractometer maintenance](/groupnotes/Laue/)  
 * [Writing papers](/groupnotes/writing/)
 * [Replying to referees](/groupnotes/replyingreferees/)  
 * [Making figures](/groupnotes/figures/)  
