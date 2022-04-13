@@ -19,6 +19,7 @@ The review process is something of a dark art, as despite its importance, very l
 # Structuring a reply to referees
 Replies should aim to make it very clear and easy to see that you have comprehensively responded to every criticism from each referee.
 1. Break down and quote all comments from each referee and generate a numbered list, as numbers will help everyone involved keep track of different issues. Use a different color or font to distinguish comments from the referee and your reply.
+1. Take care to ensure that you are directly responding to the question posed by the referee. If a long response is necessary or desirable, make sure that your opening sentence signals the main point of your response. 
 1.  Make replies self-contained by quoting changes i.e. say “We have changed [original text] to [edited text]" or similar. Don't write that you have made a change (somewhere) in the manuscript and don't refer to an answer given to another referee, as the referee won't want to search around for your response.
 
 # Things to keep in mind
