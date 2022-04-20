@@ -19,10 +19,10 @@ The review process is something of a dark art, as despite its importance, very l
 # Structuring a reply to referees
 Replies should aim to make it very clear and easy to see that you have comprehensively responded to every criticism from each referee.
 1. Break down and quote all comments from each referee and generate a numbered list, as numbers will help everyone involved keep track of different issues. Use a different color or font to distinguish comments from the referee and your reply.
-1. Take care to ensure that you are directly responding to the question posed by the referee. If a long response is necessary or desirable, make sure that your opening sentence signals the main point of your response. 
 1.  Make replies self-contained by quoting changes i.e. say “We have changed [original text] to [edited text]" or similar. Don't write that you have made a change (somewhere) in the manuscript and don't refer to an answer given to another referee, as the referee won't want to search around for your response.
 
 # Things to keep in mind
+1. Take care to ensure that you are directly responding to the question posed by the referee. If a long response is necessary or desirable, make sure that your opening sentence signals the main point of your response. Using the same terminology as the referee help ensure a clear connection between the question and the response.
 1. Try to respond to almost every point made by a referee with a change in the manuscript. If a referee's comment is incorrect or ill-informed assume that this happened because the manuscript did not provide a sufficiently good explanation and change the manuscript as best you can. This process almost always improves the manuscript and puts the referee in a much better position in terms of potentially reversing any negative opinions they have while saving face.
 1. Consider using phrases like "thank you for the chance to clarify our text" as a means to convey the idea that the referee is reviewing an improved manuscript and to avoid undue emphasis on whether the original text was right or wrong.
 1. Pick your battles. It is usually best to comply with linguistic or stylistic changes. If you get an annoying request to cite a marginally relevant paper it is usually best to do so.
