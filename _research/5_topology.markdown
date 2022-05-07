@@ -15,6 +15,6 @@ Ideas of topology have been widely applied to electronic band structures. We hav
 
 ## Example papers
 {% capture my_variable %}
-{% cite Li2021observation zhang2019phononic miao2018observation %}
+{% cite li2021fractional Li2021observation zhang2019phononic miao2018observation %}
 {% endcapture %}
 {% bibliography --cited_in_order %}
