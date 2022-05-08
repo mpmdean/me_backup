@@ -3,6 +3,7 @@ layout: about
 title: Yao Shen
 description: PhD 2019, Fudan University
 img: /assets/img/Yao_Shen.png
+order_number: 3
 
 profile:
   align: right

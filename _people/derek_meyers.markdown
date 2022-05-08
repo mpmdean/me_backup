@@ -3,6 +3,7 @@ layout: about
 title: Derek Meyers
 description: PhD 2015, University of Arkansas
 img: /assets/img/Derek_Meyers.jpeg
+order_number: 6
 
 profile:
   align: right

@@ -3,6 +3,7 @@ layout: about
 title: Jeniffer Sears
 description: PhD 2017, University of Toronto
 img: /assets/img/Jennifer_Sears.jpeg
+order_number: 2
 
 profile:
   align: right

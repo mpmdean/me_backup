@@ -6,7 +6,8 @@ description: People who work with me.
 order: 6
 ---
 
-{% for project in site.people %}
+{% assign ordered_people = site.people | sort:"order_number" %}
+{% for project in ordered_people %}
 
 {% if project.redirect %}
 <div class="project">

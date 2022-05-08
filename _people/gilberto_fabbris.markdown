@@ -3,6 +3,7 @@ layout: about
 title: Gilberto Fabbris
 description: PhD 2014, Washington University
 img: /assets/img/Gilberto_Fabbris.jpeg
+order_number: 7
 
 profile:
   align: right

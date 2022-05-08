@@ -3,6 +3,7 @@ layout: about
 title: Hu Miao
 description: PhD 2015, Chinese Academy of Science
 img: /assets/img/Hu_Miao.jpeg
+order_number: 5
 
 profile:
   align: right

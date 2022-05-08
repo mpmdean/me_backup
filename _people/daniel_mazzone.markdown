@@ -3,6 +3,7 @@ layout: about
 title: Daniel Mazzone
 description: PhD 2017, ETH Zurich
 img: /assets/img/Daniel_Mazzone.jpeg
+order_number: 4
 
 profile:
   align: right
