@@ -9,4 +9,4 @@ profile:
   image: Wei_He.jpeg
 ---
 
-Wei joined us in April 2022 and is working on quantum and correlated magnetism.
+Wei joined us in April 2022 and is working on quantum magnetism.
