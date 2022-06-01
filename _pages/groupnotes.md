@@ -14,4 +14,5 @@ Here we keep notes of various tasks within the lab.
 * [Making figures](/groupnotes/figures/)  
 * [Useful software](/groupnotes/software/)
 * [Data management](/groupnotes/data_management/)
+* [Telework](/groupnotes/telework/)
 * [Contact numbers](/groupnotes/contact/)  
