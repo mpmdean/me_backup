@@ -22,6 +22,6 @@ states are shown from left to right. Photons are represented as wavy red lines a
 
 ## Example papers
 {% capture my_variable %}
-{% cite Shen2022role lin2021strong hao2019anomalous hao2018giant kim2018imaging miao2017high fabbris2017doping dean2016ultrafast dean2015insights yin2013ferromagnetic dean2013high dean2013persistence dean2012spin%}
+{% cite shen2022emergence Shen2022role lin2021strong hao2019anomalous hao2018giant kim2018imaging miao2017high fabbris2017doping dean2016ultrafast dean2015insights yin2013ferromagnetic dean2013high dean2013persistence dean2012spin%}
 {% endcapture %}
 {% bibliography --cited_in_order %}
