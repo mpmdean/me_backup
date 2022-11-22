@@ -9,6 +9,7 @@ Here we keep notes of various tasks within the lab.
 
 * [Bruker diffractometer maintenance](/groupnotes/Bruker/)  
 * [Laue diffractometer maintenance](/groupnotes/Laue/)  
+* [Cleaving samples](/groupnotes/cleaving/)  
 * [Writing papers](/groupnotes/writing/)
 * [Replying to referees](/groupnotes/replyingreferees/)  
 * [Making figures](/groupnotes/figures/)  
