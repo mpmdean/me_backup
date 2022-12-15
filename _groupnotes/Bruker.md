@@ -35,6 +35,6 @@ b) With the tube off, unplug the quick connectors at the tube head and inset the
 1. Refill the reservoir distilled water by pouring additional water into the reservoir. Take care to avoid splashes. If needed, use the small beaker. There should be spare water under the desk in 233. Ask Mark if you need to buy more water.
 
 ## Haskris
-1. Switch off the Haskris. Open the water reservoir on the front via the screw-lid. Remove the water using the shop vac or another suitable pump. Remember that the filter inside the shop vac should be removed in order to avoid getting it wet. If there is debris at the bottom of the tank, consider agitating the water before transferring it.
+1. Switch off and unplug the Haskris. Open the water reservoir on the front via the screw-lid and inspect how clean the water is. Remove the panel on the left hand side of the chiller when looking from the front. Use the tap to drain the water from the unit. If there is debris at the bottom of the tank, consider agitating the water before transferring it.
 1. Replace the water with distilled water by pouring additional water into the reservoir. Take care to avoid splashes here and find a small beaker if needed! There should be some under the desk. Ask Mark if you need to buy more.
 1. We are currently installing an additional filter in this circuit. Please check it every six months and replace as necessary.
