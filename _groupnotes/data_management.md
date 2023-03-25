@@ -17,7 +17,7 @@ Our typical principle is that the data immediately behind the plots in the scien
 
 1. Commit the data needed to make the plots and sufficient instructions so that
 someone with no knowledge of the work could generate the plots.
-The easiest way to do this is to use the plotting scripts behind making the plots for the paper. As long the plotting code is reasonably well written it should be adequately clear.
+The easiest way to do this is to use the plotting scripts behind making the plots for the paper. As long the plotting code is reasonably well written it should be adequately clear. Save the data itself in a well-known and open format such as hdf5, nexus, or text files. Avoid python pickel files, as these can be much harder to load than standard formats.
 
 1. A minimum is then to ask Mark to link the repository to [Zenodo](https://zenodo.org/), which is a system designed by CERN to store data and link it to a specific citable item. Each time a release is created in the github repository Zenodo stores the data and creates a new citable item. In most cases, we will just create one release. We suggest this is called First release and named v1.0.0. If, for any reason, an update is needed more releases can be created. Zenodo provides links to either specific versions, or a general link to the repo, which defaults to the most recent version. It is best to use the general link.
 
