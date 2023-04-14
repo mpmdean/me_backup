@@ -12,7 +12,7 @@ Here we keep a list of useful software:
 * [pdfCropMargins](https://pypi.org/project/pdfCropMargins/) -- crop pdfs.
 * [Docker](https://www.docker.com/) -- tool for making reproducible computational environments.
 * [WebPlotDigitizer](https://apps.automeris.io/wpd/) -- extract data from graphs.
-* [diffcalc](https://github.com/DiamondLightSource/diffcalc-core) -- calculate Q space i.e. replacement for spec
+* [diffcalc](https://github.com/DiamondLightSource/diffcalc-core) -- calculate Q space i.e. a replacement for spec
 
 
 Some not especially well refined, but hopefully useful notes are available on these topics
