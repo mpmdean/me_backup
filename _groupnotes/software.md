@@ -12,9 +12,10 @@ Here we keep a list of useful software:
 * [pdfCropMargins](https://pypi.org/project/pdfCropMargins/) -- crop pdfs.
 * [Docker](https://www.docker.com/) -- tool for making reproducible computational environments.
 * [WebPlotDigitizer](https://apps.automeris.io/wpd/) -- extract data from graphs.
+* [diffcalc](https://github.com/DiamondLightSource/diffcalc-core) -- calculate Q space i.e. replacement for spec
 
 
 Some not especially well refined, but hopefully useful notes are available on these topics
 * [Converting unit cells](https://github.com/mpmdean/converting_unitcells)
 * [X-ray speckle contrast](https://github.com/mpmdean/speckle_contrast)
-* [X-ray sand optical penetration](https://github.com/mpmdean/optical_x-ray_penetration_depths)
+* [X-ray and optical penetration](https://github.com/mpmdean/optical_x-ray_penetration_depths)
