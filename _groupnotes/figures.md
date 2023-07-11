@@ -10,6 +10,7 @@ Yao's paper [here](/assets/pdf/shen2021charge.pdf) provides a nice example. The 
 ## Checklist
 
 * Except in very rare cases all axes and colorbars should have labels and units.
+* Choose the range of the axes carefully to convey your conculsions. Zooming in or out can help emphasize the variation or flatness of the data.
 * It is generally preferred to report results in specific units such as photons/s rather than arbitrary units. When used, the abbreviation Arb. units is usually preferred over A.u., as the former is less ambiguous
 * Colormap plots should include colorbars, micrographs include scalebars and figure should include legends if they show more than one plot item.
 * Check the journal requirements for the figures. Make sure you follow their conventions including the labeling of subplots as either **a**, a), or (a).
